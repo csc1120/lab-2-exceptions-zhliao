@@ -153,7 +153,7 @@ public class Driver {
     /**
      * Finds the maximum value in an array of integers.
      *
-     * @param rolls the array of integers representing roll counts.
+     * @param rolls an array of integers representing roll counts.
      * @return the maximum value found in the array.
      */
     public static int findMax(int[] rolls) {
